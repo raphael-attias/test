@@ -1,0 +1,25 @@
+{
+  "name": "test-project",
+  "version": "1.0.0",
+  "description": "A simple test repository for demonstrating GitHub releases and project management",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raphael-attias/test.git"
+  },
+  "keywords": [
+    "test",
+    "example",
+    "release",
+    "github"
+  ],
+  "author": "raphael-attias",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/raphael-attias/test/issues"
+  },
+  "homepage": "https://github.com/raphael-attias/test#readme"
+}
